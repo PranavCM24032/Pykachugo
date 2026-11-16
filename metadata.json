@@ -1,0 +1,6 @@
+{
+  "name": "Pykachu Go",
+  "description": "Pokédex-styled binary signal decryption hunt with Oak Field-Lab CRT UI, WebP Pokémon reveals, Redis state caching, Load Balancer telemetry proxy, and 2G offline resilience.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
